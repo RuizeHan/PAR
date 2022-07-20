@@ -1,9 +1,8 @@
 # PAR
 Panoramic Human Activity Recognition
 
-We have released the dataset.
+We have released the dataset and code to the public.
 
-Link: https://pan.baidu.com/s/1K8RDNteaphYJY8YEAg5fyA Password: PHAR
+Dataset Link: https://pan.baidu.com/s/1K8RDNteaphYJY8YEAg5fyA Password: PHAR
 
-The code is coming soon....
 
