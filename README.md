@@ -11,7 +11,7 @@ Dataset Link: https://pan.baidu.com/s/1K8RDNteaphYJY8YEAg5fyA Password: PHAR
 In our later study, we may update this annotation.
 
 
-
+```
 @inproceedings{han2022panoramic,
   title={Panoramic Human Activity Recognition},
   author={Han, Ruize and Yan, Haomin and Li, Jiacheng and Wang, Songmiao and Feng, Wei and Wang, Song},
@@ -20,3 +20,4 @@ In our later study, we may update this annotation.
   year={2022},
   organization={Springer}
 }
+```
