@@ -1,0 +1,28 @@
+item {
+  name: "commuting"
+  id: 1
+}
+item {
+  name: "resting"
+  id: 2
+}
+item {
+  name: "conversing"
+  id: 3
+}
+item {
+  name: "office working"
+  id: 4
+}
+item {
+  name: "walking"
+  id: 5
+}
+item {
+  name: "waiting"
+  id: 6
+}
+item {
+  name: "sitting"
+  id: 7
+}
