@@ -1,9 +1,9 @@
 item {
-  name: "walking"
+  name: "walking together"
   id: 1
 }
 item {
-  name: "standing"
+  name: "standing closely"
   id: 2
 }
 item {
@@ -11,7 +11,7 @@ item {
   id: 3
 }
 item {
-  name: "sitting"
+  name: "sitting closely"
   id: 4
 }
 item {
@@ -23,7 +23,7 @@ item {
   id: 6
 }
 item {
-  name: "looking at robot"
+  name: "looking at camera"
   id: 7
 }
 item {
@@ -115,7 +115,7 @@ item {
   id: 29
 }
 item {
-  name: "join/leave/expansion/narrow"
+  name: "group evolution"
   id: 30
 }
 item {

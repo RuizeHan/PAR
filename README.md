@@ -20,6 +20,9 @@ We also update the code.
 [2023.09] We upload the evaluation code of the group detection.
 >>>>>>> Stashed changes
 
+[2023.10] We uploaded the base model of stage I to the cloud storage. Put this file into the path ./data.
+
+https://pan.baidu.com/s/1eW9uj7wO8vaFgWSoRD-UeA @ PHAR.
 
 ```
 @inproceedings{han2022panoramic,
