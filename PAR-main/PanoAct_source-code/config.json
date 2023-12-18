@@ -1,0 +1,10 @@
+{
+    "Datasets": {
+        "JRDB": {
+            "data_path": "/HDDs/hdd1/yhm/jrdb/train_dataset_with_activity/images/image_stitched",
+            "annotation_path": "data/annotated_txt/",
+            "excel_path": "data/annotated_excel/",
+            "stage1_model_path": "data/stage_1.pth"
+        }
+    }
+}
