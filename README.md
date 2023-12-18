@@ -19,10 +19,11 @@ We also update the code.
 
 [2023.09] We upload the evaluation code of the group detection.
 
-
 [2023.10] We uploaded the base model of stage I to the cloud storage. Put this file into the path ./data.
 
 https://pan.baidu.com/s/1eW9uj7wO8vaFgWSoRD-UeA @ PHAR.
+
+[2023.12] We have updated the source code in folder /PanoAct_source-code-12_23.
 
 ```
 @inproceedings{han2022panoramic,
