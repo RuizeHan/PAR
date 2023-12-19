@@ -25,8 +25,8 @@ x
 
 1. Download publicly available JRDB dataset from following links: [JRDB dataset](http://vml.cs.sfu.ca/wp-content/uploads/volleyballdataset/volleyball.zip).
 2. Save the images under ./PanoAct_source-code/data/imgs
-3. Stage1 model weights file and annotation files should be put into ./PanoAct_source-code/data
-   We uploaded the base model of stage I to the cloud storage. Put this file into the path ./data. https://pan.baidu.com/s/1eW9uj7wO8vaFgWSoRD-UeA @ PHAR.
+3. Stage1 model weights file and annotation files should be put into ./PanoAct_source-code/data.
+   We uploaded the base model of stage I to the cloud storage. https://pan.baidu.com/s/1eW9uj7wO8vaFgWSoRD-UeA @ PHAR.
 
 ## Get Started
 
