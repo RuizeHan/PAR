@@ -31,8 +31,9 @@ x
 
 1. **Train**: 
     1. **Stage1**
+        Set backbone weights file path in config.json, default is: data/stage_1.pth
         ```
-        python train_stage1.py
+        Datasets[JRDB][stage1_model_path]: YOUR_PATH
         ```
        
     2. **Stage2**
