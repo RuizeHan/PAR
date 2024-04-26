@@ -25,6 +25,8 @@ https://pan.baidu.com/s/1eW9uj7wO8vaFgWSoRD-UeA @ PHAR.
 
 [2023.12] We have updated the source code in folder /PanoAct_source-code-12_23.
 
+[2024.04] Because of the transformation of Github, this config file is missing before. We have fixed the code.
+
 ```
 @inproceedings{han2022panoramic,
   title={Panoramic Human Activity Recognition},
