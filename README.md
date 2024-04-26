@@ -2,7 +2,7 @@
 
 ### Panoramic Human Activity Recognition: A new problem integrating the classical human activity recognition, i.e., Instance action recognition, Social group activity recognition, Global activity recognition.
 
-<div align=center><img src="https://github.com/RuizeHan/PAR/blob/main/figs/poster.png" width="825" height="125" alt="example"/><br/>
+<div align=center><img src="https://github.com/RuizeHan/PAR/blob/main/poster.png" width="825" height="125" alt="example"/><br/>
 
 ---
 
